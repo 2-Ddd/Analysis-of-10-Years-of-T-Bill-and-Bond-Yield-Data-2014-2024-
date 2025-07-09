@@ -81,7 +81,7 @@ Power BI Dashboards
 Excel Charts
 
 
-
+###########################
 For this assignment, I conducted a comprehensive analysis of bond yields from 2014 to 2024 consisting of descriptive statistical analysis, yield spread, scatter plots, moving averages, a correlation matrix, seasonal decomposition, rolling volatility, rolling correlation, and principal component analysis (PCA). With these in-depth analyses, a clearer understanding of bond yield dynamics was achieved, highlighting key trends, relationships, and volatility patterns that provide valuable insights into market behavior and potential economic conditions moving forward. In addition, I have also implemented all analyses from fundamental to advanced in a condensed Jupyter Notebook for a concise way to observe all visualizations.
 
 Thank you!
