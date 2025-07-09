@@ -1,4 +1,5 @@
 Bank of Canada Yield Curve Analysis
+
 📘 Overview
 This project leverages the Bank of Canada Valet Web Service to extract, clean, analyze, and visualize Canadian government bond and T-bill yield data. It focuses on the yield curve over the past 10 years, providing insights into spreads between tenors.
 
