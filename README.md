@@ -93,3 +93,14 @@ Files Description:
 5. An JupyterNotebook with additional advanced analysis and visualizations all fully implemented using only Python. This file also contains all previous analysis done in both Excel and PowerBI, please expand all fields to view these.
 
 Technologies Utilized in The Assignment: Power Query, PivotTable, PivotChart, Formulas, DAX, Python, Numpy, scikit-learn, Matplotlib, Seaborn
+## Technical Summary and Conclusion
+This analysis involved a comprehensive examination of 10 years of Treasury bill (T-bill) and benchmark bond yield data from the Bank of Canada. The following technical steps were undertaken:
+              1. Data Retrieval and Cleaning: The Bank of Canada Valet API was accessed to retrieve historical T-bill and bond yield data, followed by data cleaning to ensure accuracy and consistency.
+              2. Statistical Analysis: Statistical analyses were performed to identify yield trends, volatility patterns, and yield spreads, providing insights into market sentiment.
+              3. Yield Spread Calculation: Yield spreads between different tenors were calculated to evaluate economic signals and fluctuations in investor confidence.
+              4. Correlation Analysis: The correlation between adjacent yield tenors was analyzed to understand their relationships and movement patterns over time.
+              5. Advanced Analytical Techniques: Principal Component Analysis (PCA) was employed to uncover underlying factors influencing bond yields, and rolling volatility assessments were conducted to examine fluctuations across different maturities.
+              6. Visualization: Visual representations, including yield curves and volatility heatmaps, were created to effectively communicate findings and facilitate the interpretation of data trends.
+
+The analysis of the T-bill and benchmark bond yield data highlights key insights into the bond market's behavior. Longer-term bond yields, such as the 10-year bond, displayed greater stability, while shorter-term yields, like the 1-year T-bill, were more volatile and sensitive to economic changes. Yield spreads indicated economic sentiment, with a flattening curve signaling pessimism during uncertainties and wider spreads reflecting confidence in growth. Correlation analysis showed that yields tend to move in tandem, while advanced techniques, such as PCA, provided deeper insights into yield dynamics. Overall, this analysis emphasizes the importance of monitoring yield trends for informed investment decisions amid evolving economic conditions. This technical framework supports a robust understanding of bond yield dynamics and aids in navigating the complexities of the financial landscape.
+
