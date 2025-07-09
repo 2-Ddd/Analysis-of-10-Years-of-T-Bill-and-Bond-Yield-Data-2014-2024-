@@ -12,7 +12,7 @@ Analyze yield relationships and calculate spreads
 
 Visualize yield curves and spread changes over time
 
-🛠 Tools Used
+## 🛠 Tools Used
 You may use any of the following tools:
 
 Python (Pandas, Requests, Matplotlib/Seaborn)
@@ -25,13 +25,13 @@ Power Query
 
 Excel
 
-📥 1. Connect to External Data Source
+## 📥 1. Connect to External Data Source
 Use the Bank of Canada Valet API to retrieve 10 years of historical yield data.
 
 API Documentation:
 https://www.bankofcanada.ca/valet/docs
 
-🧹 2. Import and Clean Data
+##🧹 2. Import and Clean Data
 Data Series:
 
 TB.CDN.1Y.MID → 1-Year Treasury Bill Yield
@@ -50,7 +50,7 @@ Convert data types (e.g., dates and numeric values)
 
 Rename columns for readability and consistency
 
-📊 3. Analyze the Data
+##📊 3. Analyze the Data
 Examine yield trends across tenors
 
 Calculate spreads between maturities:
@@ -63,7 +63,7 @@ Calculate spreads between maturities:
 
 Document findings and observe patterns, such as yield curve inversion or steepening/flattening
 
-📈 4. Visualizations
+## 📈 4. Visualizations
 Create charts to visualize:
 
 Individual yield time series
@@ -80,9 +80,7 @@ Power BI Dashboards
 
 Excel Charts
 
-
-###########################
-
+## Descirption
 For this assignment, I conducted a comprehensive analysis of bond yields from 2014 to 2024 consisting of descriptive statistical analysis, yield spread, scatter plots, moving averages, a correlation matrix, seasonal decomposition, rolling volatility, rolling correlation, and principal component analysis (PCA). With these in-depth analyses, a clearer understanding of bond yield dynamics was achieved, highlighting key trends, relationships, and volatility patterns that provide valuable insights into market behavior and potential economic conditions moving forward. In addition, I have also implemented all analyses from fundamental to advanced in a condensed Jupyter Notebook for a concise way to observe all visualizations.
 
 Thank you!
