@@ -4,7 +4,8 @@ financial welfare of Canada. Additionally, the Bank is a source of exchange rate
 indexes, economic indicators, and other statistical data. The Bank of Canada Valet Web Service
 offers programmatic access to global financial data. More information can be found here:
 https://www.bankofcanada.ca/valet/docs
-#Objective:
+
+Objective:
 The goal of this exercise is to evaluate a candidate’s ability to:
 • Connect to external data sources
 • Import and clean data
