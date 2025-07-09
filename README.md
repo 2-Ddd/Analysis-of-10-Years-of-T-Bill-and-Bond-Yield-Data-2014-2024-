@@ -24,14 +24,14 @@ Power BI
 Power Query
 
 Excel
-
-## 📥 1. Connect to External Data Source
+## Tasks
+📥 1. Connect to External Data Source
 Use the Bank of Canada Valet API to retrieve 10 years of historical yield data.
 
 API Documentation:
 https://www.bankofcanada.ca/valet/docs
 
-##🧹 2. Import and Clean Data
+🧹 2. Import and Clean Data
 Data Series:
 
 TB.CDN.1Y.MID → 1-Year Treasury Bill Yield
@@ -50,7 +50,7 @@ Convert data types (e.g., dates and numeric values)
 
 Rename columns for readability and consistency
 
-##📊 3. Analyze the Data
+📊 3. Analyze the Data
 Examine yield trends across tenors
 
 Calculate spreads between maturities:
@@ -63,7 +63,7 @@ Calculate spreads between maturities:
 
 Document findings and observe patterns, such as yield curve inversion or steepening/flattening
 
-## 📈 4. Visualizations
+📈 4. Visualizations
 Create charts to visualize:
 
 Individual yield time series
