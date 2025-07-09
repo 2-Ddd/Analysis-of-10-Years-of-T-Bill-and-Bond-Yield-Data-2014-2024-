@@ -95,6 +95,7 @@ Files Description:
 Technologies Utilized in The Assignment: Power Query, PivotTable, PivotChart, Formulas, DAX, Python, Numpy, scikit-learn, Matplotlib, Seaborn
 ## Technical Summary and Conclusion
 This analysis involved a comprehensive examination of 10 years of Treasury bill (T-bill) and benchmark bond yield data from the Bank of Canada. The following technical steps were undertaken:
+
               1. Data Retrieval and Cleaning: The Bank of Canada Valet API was accessed to retrieve historical T-bill and bond yield data, followed by data cleaning to ensure accuracy and consistency.
               2. Statistical Analysis: Statistical analyses were performed to identify yield trends, volatility patterns, and yield spreads, providing insights into market sentiment.
               3. Yield Spread Calculation: Yield spreads between different tenors were calculated to evaluate economic signals and fluctuations in investor confidence.
